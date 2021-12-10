@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-
-
-
-| <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat9&layout=compact&theme=react&hide_border=true"/> | <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=rawat9&theme=react&cache_seconds=30&hide_border=true"/>|
-|-------|------|
+<p align="center">
+  <img width="337px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat9&layout=compact&theme=react&hide_border=true"/>
+  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com/?user=rawat9&theme=react&cache_seconds=30&hide_border=true"/>
+</p>
