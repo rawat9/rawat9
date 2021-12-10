@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd>Hi there ✌🏻 </kbd>
+  <strong>Hi there ✌🏻 </strong>
 </p>
 
 <!--
