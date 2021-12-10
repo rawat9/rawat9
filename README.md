@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 
 
-| <a href="https://github.com/rawat9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat9&layout=compact&theme=dark&hide_border=true" /></a> | <a href="https://github.com/rawat9/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=rawat9&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> |
-| ------------- | ------------- |
+
+
+| <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat9&layout=compact&theme=react&hide_border=true"/> | <img width="44%" src="https://github-readme-streak-stats.herokuapp.com/?user=rawat9&theme=react&cache_seconds=30&hide_border=true"/>|
+|-------|------|
