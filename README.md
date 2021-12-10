@@ -1,6 +1,6 @@
-<p align="center">
-  <strong>< Hi there ✌🏻 /></strong>
-</p>
+<div align="center">
+  <h2>Hi there ✌🏻</h2>
+</div>
 
 <!--
 **rawat9/rawat9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
