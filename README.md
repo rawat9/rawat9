@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-  <img width="337px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat9&layout=compact&theme=react&hide_border=true"/>
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical/>
+  <img width="334px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rawat9&layout=compact&theme=react&hide_border=true"/>
+  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=rawat9&show_icons=true&theme=dark"/>
+
 </p>
