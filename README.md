@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>Hi there ✌🏻</h2>
+  <h3>Hi there ✌🏻</h3>
 </div>
 
 <!-- <p align="center">
